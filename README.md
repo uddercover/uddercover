@@ -1,5 +1,6 @@
-
-Hello, I'm a security researcher. <br> <br>
+👋 Hello!
+---
+I'm a security researcher. <br> <br>
 I help secure smart contract code by finding bugs and vulnerabilities that would otherwise cause issues and loss of funds in production. <br> <br>
 Over 40+ H/M vulnerabilities found across multiple contest platforms <br>
 - X (twitter) at https://x.com/uddercover
