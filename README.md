@@ -15,7 +15,7 @@ Find me on: <br>
 Proof of Work
 ---
 
-50+ H/M vulnerabilities found across multiple contest platforms. <br>
+60+ H/M vulnerabilities found across multiple contest platforms. <br>
 
 | № | Project |  Category| Vulnerabilities | Language | Ranking
 |----------|----------|----------|----------|----------|----------|
